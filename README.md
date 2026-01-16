@@ -36,47 +36,47 @@ GitHub – Version control and project documentation
 
 **🔄 Project Workflow / Steps
 **
-Data Loading
+**Data Loading**
 
-Imported raw dataset using Python libraries (Pandas, NumPy)
+- Imported raw dataset using Python libraries (Pandas, NumPy)
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-Analyzed data structure, distributions, and trends
+- Analyzed data structure, distributions, and trends
 
-Identified missing values, outliers, and inconsistencies
+- Identified missing values, outliers, and inconsistencies
 
-Data Cleaning & Preparation
+**Data Cleaning & Preparation**
 
-Handled missing values and duplicates
+- Handled missing values and duplicates
 
-Standardized data formats
+- Standardized data formats
 
-Created derived columns where required
+- Created derived columns where required
 
-SQL Analysis (MySQL Server)
+- SQL Analysis (MySQL Server)
 
-Imported cleaned data into MySQL
+- Imported cleaned data into MySQL
 
-Executed SQL queries for aggregation, filtering, and validation
+- Executed SQL queries for aggregation, filtering, and validation
 
-Verified business metrics using SQL logic
+- Verified business metrics using SQL logic
 
-Power BI Dashboard
+**Power BI Dashboard
+**
+- Built interactive visuals and KPIs
 
-Built interactive visuals and KPIs
+- Created filters, slicers, and drill-down views
 
-Created filters, slicers, and drill-down views
+- Designed a clean and business-friendly dashboard layout
 
-Designed a clean and business-friendly dashboard layout
+- Reporting & Presentation
 
-Reporting & Presentation
+- Generated insights report
 
-Generated insights report
+- Created a professional PPT using Presentation AI
 
-Created a professional PPT using Presentation AI
-
-Focused on insights, trends, and recommendations
+- Focused on insights, trends, and recommendations
 
 **📈 Dashboard**
 
